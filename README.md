@@ -443,7 +443,7 @@ You must:
 1. Modify the code block below so that it contains the output of the command below
     ```
     $ qwen 'what is .bashrc?'
-    <add_your_programs_response_here>
+    .bashrc` is a shell script that is automatically executed by the Bash shell when you start a new interactive, non-login terminal session. It is typically used to configure your environment, such as setting aliases, defining functions, and managing the `PATH` variable.
     ```
 
 1. Push your changes to github.
